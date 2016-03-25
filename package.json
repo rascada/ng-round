@@ -1,0 +1,32 @@
+{
+  "name": "ng-round",
+  "version": "1.0.0",
+  "description": "Rounding pipe filter for angular 2",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rascada/ng-round.git"
+  },
+  "keywords": [
+    "decimal",
+    "point",
+    "round",
+    "angular",
+    "angular2",
+    "ng",
+    "pipe",
+    "filter"
+  ],
+  "author": "Damian Martyniak - Rascada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rascada/ng-round/issues"
+  },
+  "homepage": "https://github.com/rascada/ng-round#readme",
+  "dependencies": {
+    "angular2": "^2.0.0-beta.12"
+  }
+}
